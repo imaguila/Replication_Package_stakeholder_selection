@@ -1,6 +1,6 @@
 
 
-# Replication Package: Evidence-based stakeholder identification and conflict management in a requirements prioritisation context
+# Replication Package: Salience-Based Stakeholder Selection in Software Projects via Recommendation Networks and Evidence Theory
 
 This repository contains the replication package and datasets for the paper 'Evidence-based stakeholder identification and conflict management in a requirements prioritisation context' [Anonymized for Double-Blind Review]
 
